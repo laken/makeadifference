@@ -43,5 +43,8 @@ categories: jekyll update
 * [Basic Rights Oregon](http://www.basicrights.org)
 * [Western States Center](http://www.westernstatescenter.org/)
 
+### LGBTQ Rights / Services
+* [Q Center](http://www.pdxqcenter.org)
+
 ### Independent Media
 * [KBOO FM](http://www.kboo.org)
