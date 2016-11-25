@@ -14,16 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Groups worth supporting in the Trump era
-email: andy@laken.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   Since the 2016 US election I've seem lots of people ask for a list of organizations that they can
   support financially and through volunteering. Most of the suggestions I've seen are great, but they
   stay locked in comments threads on Facebook or broken up in fragmented Tweets. Here's my version of
   a list in the hope that it's useful. Pull requests welcome.
-  useful
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: alaken
+twitter_username: 
 github_username:  laken
 
 # Build settings
