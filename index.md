@@ -63,7 +63,7 @@ This is a list, frequently updated, of organizations fighting the good fight in 
 ## List of lists
 
 * [A List of Pro-Women, Pro-Immigrant, Pro-Earth, Anti-Bigotry Organizations That Need Your Support](http://jezebel.com/a-list-of-pro-women-pro-immigrant-pro-earth-anti-big-1788752078)
-* [Resist Trump By Supporting These Crucial Organizations](http://www.portlandmercury.com/blogtown/2016/11/14/18694088/resist-trump-by-supporting-these-crucial-organizations)
+* [Resist Trump By Supporting These Crucial Organizations (Oregon focused)](http://www.portlandmercury.com/blogtown/2016/11/14/18694088/resist-trump-by-supporting-these-crucial-organizations)
 * [Wondering What You Can Do? A Lot.](http://www.portlandmercury.com/why-we-march/2016/11/16/18698008/wondering-what-you-can-do-a-lot)
 
 
