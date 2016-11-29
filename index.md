@@ -50,6 +50,7 @@ This is a list, frequently updated, of organizations fighting the good fight in 
 ## Oregon – Statewide and Portland
 
 ### Civil Rights
+* [Civil Liberties Defense Center](https://cldc.org/)
 * [Basic Rights Oregon](http://www.basicrights.org)
 * [Western States Center](http://www.westernstatescenter.org/)
 
