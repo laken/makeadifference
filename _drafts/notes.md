@@ -1,6 +1,13 @@
 ---
 published: false
 ---
-## A New Post
+## New sites/links to consider
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Introduction to Effective Altruism - Effective Altruism - www.effectivealtruism.org
+https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/
+
+Earning to Give - www.jefftk.com
+http://www.jefftk.com/giving
+
+These are the charities where your money will do the most good - Vox
+https://apple.news/AavkHVShEQnefarntqeIE1A
